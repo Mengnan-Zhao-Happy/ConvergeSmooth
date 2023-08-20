@@ -11,6 +11,9 @@ Likewise, we design weight centralization without introducing additional hyperpa
 ## Requirements
 Python </br>
 Pytorch </br>
+
+## Hyper-parameters 
+The detailed hyper-parameters for implementing the results of the paper are provided in the supplement.
 ## Train
 > waiting....
 
