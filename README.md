@@ -1,5 +1,5 @@
 ﻿# ConvergeSmooth
-Code for [Fast Adversarial Training with Smooth Convergence]
+Code for ICCV 2023 paper: [Fast Adversarial Training with Smooth Convergence]
 ## Introduction
 > 	Fast adversarial training (FAT) is beneficial for improving the adversarial robustness of neural networks.
 	However, previous FAT work suffers from catastrophic overfitting at large perturbation budgets, \ie the adversarial robustness of models declines to near zero during training. 
