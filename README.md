@@ -15,7 +15,7 @@ Pytorch </br>
 ## Hyper-parameters 
 The detailed hyper-parameters for implementing the results of the paper are provided in the supplement.
 ## Train
-> waiting....
+> python FGSM_MEP_CS.py
 
 ## Test
 > python test.py
